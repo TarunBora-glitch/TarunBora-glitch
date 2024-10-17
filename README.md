@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TarunBora-glitch
-- 👀 I’m interested in AI
+- 👋 Hi, I’m @TarunBora
+- 👀 I’m interested in AI, ML, NLP,
 - 🌱 I’m currently learning AI-related concepts
 - 💞️ I’m looking to collaborate on AI-based projects and coding challenges
 - 📫 How to reach me: boratarun581@gmail.com
