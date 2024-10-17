@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tarun bora
+- 👋 Hi, I’m @TarunBora-glitch
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI-related concepts
 - 💞️ I’m looking to collaborate on AI-based projects and coding challenges
